@@ -1,6 +1,5 @@
 const express = require("express");
 const cors = require("cors");
-require("dotenv").config();
 
 // import routes
 const schoolRoutes = require("./routes/schoolRoutes");
